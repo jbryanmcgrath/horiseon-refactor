@@ -16,3 +16,11 @@ Renamed the title to be concise and descriptive.
 
 ![Gif of working homepage for Horiseon.](./assets/images/horiseonHomepage.gif)
 
+<!-- contributions -->
+This website was refactored to fit the given criteria by Bryan McGrath with help and input coming from Tutor Evan Hardek, Class intructor "tank", and TA Gary Llil. Thank you to the people looking at this README.md as well. 
+
+<!-- joke -->
+Why are elevator jokes so popular?
+
+<!-- answer -->
+because the work on so many levels!
